@@ -1,0 +1,15 @@
+---
+subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Program"
+---
+
+## Daily schedule overview
+
+[Link to pdf](data/eurocim_schedule_260325.pdf)
+
+## Abstract booklet oral presentations
+
+[Link to pdf](data/oral_abstracts_booklet_v5.pdf)
+
+## Abstract booklet poster presentations
+
+[Link to pdf](data/poster_abstracts_booklet__2_.pdf)
