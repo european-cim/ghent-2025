@@ -5,6 +5,9 @@ project:
   output-dir: docs
 
 website: 
+  open-graph:
+    image: eurocim-icon.gif
+  image: eurocim-icon.gif
   favicon: "eurocim-icon.gif"
   title: "European Causal Inference Meeting 2025 -- Ghent, Belgium"
   navbar:
