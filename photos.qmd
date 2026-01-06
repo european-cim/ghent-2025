@@ -1,0 +1,21 @@
+---
+subtitle: "Photos from EuroCIM 2025"
+format: html
+lightbox: true
+editor_options: 
+  chunk_output_type: console
+---
+
+::: {layout-ncol=6}
+
+```{r}
+#| echo: false
+#| output: asis
+
+ph <- list.files("images/photos")
+for(i in ph) {
+cat(sprintf("![](%s){group='gallery'}", file.path("images/photos", i)), "\n\n")
+}
+```
+
+:::

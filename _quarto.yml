@@ -28,6 +28,9 @@ website:
         text: Practical Information
       - href: contact.qmd
         text: Contact
+      - href: photos.qmd
+        text: Photos from the conference
+      
   page-footer:
     background: "#07342a"
     left: 

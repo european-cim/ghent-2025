@@ -7,13 +7,12 @@ subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Causal inference in health, ec
 The meeting took place from Wednesday April 9 (9am) - Friday April 11 (1pm), with pre-conference courses on Tuesday 8th. 
 
 Venue:
-Ghent University 
+Ghent University</br> 
+Campus Ledeganck</br>
+Karel Lodewijk Ledeganckstraat 35</br>
+9000 Ghent</br>
 
-Campus Ledeganck
-
-Karel Lodewijk Ledeganckstraat 35
-
-9000 Ghent
+[Photos from the event](photos.qmd)
 
 ## Keynote speakers
 
