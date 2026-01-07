@@ -2,6 +2,8 @@ project:
   type: website
   resources: 
     - data/*
+    - images/*
+    - images/photos/*
   output-dir: docs
 
 website: 
